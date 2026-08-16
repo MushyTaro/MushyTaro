@@ -1,14 +1,13 @@
 # Soon Chen Yew
 
-Full-Stack Software Engineer based in Petaling Jaya, Malaysia.
+Full-stack software engineer in Petaling Jaya, Malaysia — mechatronics engineer by training, software engineer by trade, AI in the recent work.
 
-Currently developing production web platforms for internationally recognized publications at Netizen Experience. Named patent inventor on a pending UX research platform.
+**Now:** technical lead and product owner for a social media publishing platform at Netizen Experience — an automation pipeline that takes editors' content from CMS to Instagram across six countries, built on Laravel, React and n8n, hosted on AWS, shipped with Docker and Jenkins. Named inventor on a patent-pending filing for a UX research platform.
 
-**Stack I work with daily:**
-TypeScript, Vue.js, Nuxt, React, Next.js, Laravel, Inertia.js, MySQL, AWS (S3/Lambda/DynamoDB), n8n
+**Building:** LLM-integrated applications — Flutter apps with on-device inference and hosted LLM APIs, structured output contracts, and prompt engineering under a hard token budget. Personal projects, validated on physical hardware, kept private.
 
-**Currently exploring:**
-Meta API integrations, Turborepo monorepos, AI-assisted development workflows
+**Currently:** a Python MCP server for meal logging.
 
-**Links:**
+**Stack:** TypeScript, Dart, Python, React, Next.js, Vue, Nuxt, Laravel, Flutter, SQLite, AWS, Docker, GitHub Actions, MCP
+
 [LinkedIn](https://www.linkedin.com/in/soonyew524/)

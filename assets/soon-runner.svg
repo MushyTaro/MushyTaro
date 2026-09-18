@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 180' role='img' aria-labelledby='title desc' shape-rendering='crispEdges'>
+<svg xmlns='http://www.w3.org/2000/svg' width='640' height='180' viewBox='0 0 640 180' role='img' aria-labelledby='title desc' shape-rendering='crispEdges'>
   <title id='title'>A pixel explorer running toward a quest marker</title>
   <desc id='desc'>An original small runner animation for Soon's GitHub profile.</desc>
   <g fill='#f3b63f'>

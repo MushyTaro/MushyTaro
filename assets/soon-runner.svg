@@ -1,1 +1,63 @@
-<?xml version='1.0' encoding='UTF-8'?>\n<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 180' role='img' aria-labelledby='title desc' shape-rendering='crispEdges'>\n  <title id='title'>A pixel explorer running toward a quest marker</title>\n  <desc id='desc'>An original small runner animation for Soon's GitHub profile.</desc>\n  <g fill='#f3b63f'>\n    <rect x='68' y='38' width='6' height='6'/><rect x='110' y='91' width='5' height='5'/>\n    <rect x='310' y='28' width='6' height='6'/><rect x='390' y='92' width='5' height='5'/>\n    <rect x='454' y='42' width='6' height='6'/>\n  </g>\n  <g fill='#d94b83'>\n    <rect x='92' y='64' width='5' height='5'/><rect x='352' y='58' width='5' height='5'/>\n  </g>\n  <g fill='none' stroke='#101a45' stroke-width='6' stroke-linecap='square'>\n    <path d='M24 148H616'/><path d='M24 160H616'/>\n  </g>\n  <g fill='#0e9aa6'>\n    <rect x='32' y='150' width='18' height='5'/><rect x='86' y='162' width='22' height='5'/>\n    <rect x='142' y='150' width='14' height='5'/><rect x='216' y='162' width='26' height='5'/>\n    <rect x='298' y='150' width='20' height='5'/><rect x='374' y='162' width='16' height='5'/>\n    <rect x='444' y='150' width='22' height='5'/><rect x='528' y='162' width='20' height='5'/>\n  </g>\n  <g transform='translate(500 42)'>\n    <animateTransform attributeName='transform' type='translate' values='500 42;500 36;500 42' dur='0.8s' repeatCount='indefinite'/>\n    <path d='M9 34V78' stroke='#101a45' stroke-width='6'/>\n    <path d='M9 34H47L34 45L47 56H9Z' fill='#d94b83' stroke='#101a45' stroke-width='5' stroke-linejoin='round'/>\n    <path d='M9 78H-2M9 78H20' stroke='#101a45' stroke-width='6'/>\n    <rect x='23' y='41' width='6' height='6' fill='#f3b63f'/>\n  </g>\n  <g transform='translate(165 66)'>\n    <animateTransform attributeName='transform' type='translate' values='165 66;165 60;165 66' dur='0.6s' repeatCount='indefinite'/>\n    <g transform='translate(5 28)'>\n      <rect x='0' y='0' width='20' height='34' rx='5' fill='#0e9aa6' stroke='#101a45' stroke-width='5'/>\n      <rect x='5' y='8' width='8' height='8' fill='#f3b63f'/>\n    </g>\n    <g transform='translate(31 57)'>\n      <rect x='0' y='0' width='14' height='28' rx='4' fill='#9b5a38' stroke='#101a45' stroke-width='5'/>\n      <animateTransform attributeName='transform' type='rotate' values='-18 7 0;18 7 0;-18 7 0' dur='0.36s' repeatCount='indefinite'/>\n    </g>\n    <g transform='translate(62 57)'>\n      <rect x='0' y='0' width='14' height='28' rx='4' fill='#9b5a38' stroke='#101a45' stroke-width='5'/>\n      <animateTransform attributeName='transform' type='rotate' values='18 7 0;-18 7 0;18 7 0' dur='0.36s' repeatCount='indefinite'/>\n    </g>\n    <g transform='translate(20 18)'>\n      <rect x='0' y='0' width='62' height='48' rx='16' fill='#fff0bd' stroke='#101a45' stroke-width='5'/>\n      <rect x='17' y='18' width='6' height='10' fill='#101a45'/><rect x='42' y='18' width='6' height='10' fill='#101a45'/>\n      <rect x='27' y='34' width='11' height='6' rx='3' fill='#d94b83'/>\n      <rect x='8' y='30' width='8' height='5' fill='#f3b63f'/><rect x='49' y='30' width='8' height='5' fill='#f3b63f'/>\n    </g>\n    <g transform='translate(13 39)'>\n      <rect x='0' y='0' width='22' height='12' rx='5' fill='#fff0bd' stroke='#101a45' stroke-width='5'/>\n      <animateTransform attributeName='transform' type='rotate' values='18 11 6;-18 11 6;18 11 6' dur='0.36s' repeatCount='indefinite'/>\n    </g>\n    <g transform='translate(69 39)'>\n      <rect x='0' y='0' width='22' height='12' rx='5' fill='#fff0bd' stroke='#101a45' stroke-width='5'/>\n      <animateTransform attributeName='transform' type='rotate' values='-18 11 6;18 11 6;-18 11 6' dur='0.36s' repeatCount='indefinite'/>\n    </g>\n    <g transform='translate(14 2)'>\n      <path d='M7 16V9Q7 0 20 0H52Q64 0 66 12V18H7Z' fill='#f3b63f' stroke='#101a45' stroke-width='5' stroke-linejoin='round'/>\n      <path d='M2 17H74' stroke='#101a45' stroke-width='7'/>\n      <rect x='31' y='4' width='14' height='5' fill='#fff0bd'/>\n    </g>\n  </g>\n</svg>
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 640 180' role='img' aria-labelledby='title desc' shape-rendering='crispEdges'>
+  <title id='title'>A pixel explorer running toward a quest marker</title>
+  <desc id='desc'>An original small runner animation for Soon's GitHub profile.</desc>
+  <g fill='#f3b63f'>
+    <rect x='68' y='38' width='6' height='6'/><rect x='110' y='91' width='5' height='5'/>
+    <rect x='310' y='28' width='6' height='6'/><rect x='390' y='92' width='5' height='5'/>
+    <rect x='454' y='42' width='6' height='6'/>
+  </g>
+  <g fill='#d94b83'>
+    <rect x='92' y='64' width='5' height='5'/><rect x='352' y='58' width='5' height='5'/>
+  </g>
+  <g fill='none' stroke='#101a45' stroke-width='6' stroke-linecap='square'>
+    <path d='M24 148H616'/><path d='M24 160H616'/>
+  </g>
+  <g fill='#0e9aa6'>
+    <rect x='32' y='150' width='18' height='5'/><rect x='86' y='162' width='22' height='5'/>
+    <rect x='142' y='150' width='14' height='5'/><rect x='216' y='162' width='26' height='5'/>
+    <rect x='298' y='150' width='20' height='5'/><rect x='374' y='162' width='16' height='5'/>
+    <rect x='444' y='150' width='22' height='5'/><rect x='528' y='162' width='20' height='5'/>
+  </g>
+  <g transform='translate(500 42)'>
+    <animateTransform attributeName='transform' type='translate' values='500 42;500 36;500 42' dur='0.8s' repeatCount='indefinite'/>
+    <path d='M9 34V78' stroke='#101a45' stroke-width='6'/>
+    <path d='M9 34H47L34 45L47 56H9Z' fill='#d94b83' stroke='#101a45' stroke-width='5' stroke-linejoin='round'/>
+    <path d='M9 78H-2M9 78H20' stroke='#101a45' stroke-width='6'/>
+    <rect x='23' y='41' width='6' height='6' fill='#f3b63f'/>
+  </g>
+  <g transform='translate(165 66)'>
+    <animateTransform attributeName='transform' type='translate' values='165 66;165 60;165 66' dur='0.6s' repeatCount='indefinite'/>
+    <g transform='translate(5 28)'>
+      <rect x='0' y='0' width='20' height='34' rx='5' fill='#0e9aa6' stroke='#101a45' stroke-width='5'/>
+      <rect x='5' y='8' width='8' height='8' fill='#f3b63f'/>
+    </g>
+    <g transform='translate(31 57)'>
+      <rect x='0' y='0' width='14' height='28' rx='4' fill='#9b5a38' stroke='#101a45' stroke-width='5'/>
+      <animateTransform attributeName='transform' type='rotate' values='-18 7 0;18 7 0;-18 7 0' dur='0.36s' repeatCount='indefinite'/>
+    </g>
+    <g transform='translate(62 57)'>
+      <rect x='0' y='0' width='14' height='28' rx='4' fill='#9b5a38' stroke='#101a45' stroke-width='5'/>
+      <animateTransform attributeName='transform' type='rotate' values='18 7 0;-18 7 0;18 7 0' dur='0.36s' repeatCount='indefinite'/>
+    </g>
+    <g transform='translate(20 18)'>
+      <rect x='0' y='0' width='62' height='48' rx='16' fill='#fff0bd' stroke='#101a45' stroke-width='5'/>
+      <rect x='17' y='18' width='6' height='10' fill='#101a45'/><rect x='42' y='18' width='6' height='10' fill='#101a45'/>
+      <rect x='27' y='34' width='11' height='6' rx='3' fill='#d94b83'/>
+      <rect x='8' y='30' width='8' height='5' fill='#f3b63f'/><rect x='49' y='30' width='8' height='5' fill='#f3b63f'/>
+    </g>
+    <g transform='translate(13 39)'>
+      <rect x='0' y='0' width='22' height='12' rx='5' fill='#fff0bd' stroke='#101a45' stroke-width='5'/>
+      <animateTransform attributeName='transform' type='rotate' values='18 11 6;-18 11 6;18 11 6' dur='0.36s' repeatCount='indefinite'/>
+    </g>
+    <g transform='translate(69 39)'>
+      <rect x='0' y='0' width='22' height='12' rx='5' fill='#fff0bd' stroke='#101a45' stroke-width='5'/>
+      <animateTransform attributeName='transform' type='rotate' values='-18 11 6;18 11 6;-18 11 6' dur='0.36s' repeatCount='indefinite'/>
+    </g>
+    <g transform='translate(14 2)'>
+      <path d='M7 16V9Q7 0 20 0H52Q64 0 66 12V18H7Z' fill='#f3b63f' stroke='#101a45' stroke-width='5' stroke-linejoin='round'/>
+      <path d='M2 17H74' stroke='#101a45' stroke-width='7'/>
+      <rect x='31' y='4' width='14' height='5' fill='#fff0bd'/>
+    </g>
+  </g>
+</svg>

@@ -6,19 +6,8 @@ I try new apps, test small ideas, and keep poking at the ones that stay interest
 
 I like anime, good food, exercise, and games — especially the part where playing one makes me wonder how I might build one.
 
-```text
-      ·       ·       ·       ·       ·        ✦
-  ┌──────────────────────────────────────────────┐
-  │ SOON // MUSHYTARO                 RUN →     │
-  │         .--.         .--.         .--.  ⚑  │
-  │      __/ oo \__    __/ oo \__    __/ oo \__ │
-  │     /  \____/  \  /  \____/  \  /  \____/  \│
-  │____/____/  \____\/____/  \____\/____/  \___▸│
-  └──────────────────────────────────────────────┘
-```
-
 <p align="center">
-  <img src="./assets/soon-runner.svg" alt="A small pixel explorer running toward a quest marker." width="320">
+  <img src="https://github.com/MushyTaro/MushyTaro/raw/refs/heads/main/assets/soon-runner.svg" alt="A small pixel explorer running toward a quest marker." width="560">
 </p>
 
 ```text

@@ -6,9 +6,7 @@ I try new apps, test small ideas, and keep poking at the ones that stay interest
 
 I like anime, good food, exercise, and games — especially the part where playing one makes me wonder how I might build one.
 
-<p align="center">
-  <img src="https://github.com/MushyTaro/MushyTaro/raw/refs/heads/main/assets/soon-runner.svg" alt="A small pixel explorer running toward a quest marker." width="560">
-</p>
+![A small pixel explorer running toward a quest marker.](https://github.com/MushyTaro/MushyTaro/raw/refs/heads/main/assets/soon-runner.svg)
 
 ```text
 ┌─ SIDE QUEST STATUS ───────────────────────────┐
